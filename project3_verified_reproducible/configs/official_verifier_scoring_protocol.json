@@ -1,0 +1,21 @@
+{
+  "scoring_correction": "Official task success is determined from internal official verifier test outcomes, not from the verifier-wrapper process exit code.",
+  "audit_scope": {
+    "archived_runs": 23,
+    "formal_validation_tasks": ["paper-anonymizer", "edit-pdf"],
+    "held_out_tasks": ["offer-letter-generator", "court-form-filling"],
+    "pilot_excluded_from_formal_metrics": ["dialogue-parser"]
+  },
+  "success_rule": {
+    "pass_at_1": "1 only when every relevant internal official verifier test passes; otherwise 0.",
+    "do_not_use_alone": [
+      "top-level verifier process exit code",
+      "agent process exit code"
+    ]
+  },
+  "reported_limitations": [
+    "The validation and held-out sets have two tasks each.",
+    "Failure-mode counts are evidence rows, not independent trials.",
+    "Stored analysis reproduces corrected scoring without rerunning paid model calls."
+  ]
+}

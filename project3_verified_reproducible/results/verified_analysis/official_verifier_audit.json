@@ -1,0 +1,186 @@
+[
+  {
+    "folder": "court-form-filling-final_c0_off_default-019b7793",
+    "task": "court-form-filling",
+    "config": "final_c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 60916
+  },
+  {
+    "folder": "dialogue-parser-default-130db9f6",
+    "task": "dialogue-parser",
+    "config": "default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 38862
+  },
+  {
+    "folder": "edit-pdf-c0_off_default-1bb8ebc5",
+    "task": "edit-pdf",
+    "config": "c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 19854
+  },
+  {
+    "folder": "edit-pdf-c0_off_default-5d97074a",
+    "task": "edit-pdf",
+    "config": "c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 19854
+  },
+  {
+    "folder": "edit-pdf-c1_off_full_verify-20c47616",
+    "task": "edit-pdf",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 11620
+  },
+  {
+    "folder": "edit-pdf-c1_off_full_verify-2cca5dbb",
+    "task": "edit-pdf",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 9986
+  },
+  {
+    "folder": "edit-pdf-c1_off_full_verify-98b2a1ce",
+    "task": "edit-pdf",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 11620
+  },
+  {
+    "folder": "edit-pdf-c1_off_full_verify-d39edccb",
+    "task": "edit-pdf",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 19854
+  },
+  {
+    "folder": "edit-pdf-c2_minimal_default_verify-3324fb57",
+    "task": "edit-pdf",
+    "config": "c2_minimal_default_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 11620
+  },
+  {
+    "folder": "edit-pdf-c2_minimal_default_verify-51aaa0bc",
+    "task": "edit-pdf",
+    "config": "c2_minimal_default_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 11620
+  },
+  {
+    "folder": "edit-pdf-default-bb48b861",
+    "task": "edit-pdf",
+    "config": "default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 11620
+  },
+  {
+    "folder": "offer-letter-generator-final_c0_off_default-2c6f94ec",
+    "task": "offer-letter-generator",
+    "config": "final_c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 38755
+  },
+  {
+    "folder": "paper-anonymizer-c0_off_default-b2b6c1d6",
+    "task": "paper-anonymizer",
+    "config": "c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8678
+  },
+  {
+    "folder": "paper-anonymizer-c0_off_default-cf7b42ad",
+    "task": "paper-anonymizer",
+    "config": "c0_off_default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8719
+  },
+  {
+    "folder": "paper-anonymizer-c1_off_full_verify-0701c5ff",
+    "task": "paper-anonymizer",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8739
+  },
+  {
+    "folder": "paper-anonymizer-c1_off_full_verify-2ce7dbce",
+    "task": "paper-anonymizer",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8613
+  },
+  {
+    "folder": "paper-anonymizer-c1_off_full_verify-7f59e299",
+    "task": "paper-anonymizer",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8661
+  },
+  {
+    "folder": "paper-anonymizer-c1_off_full_verify-9a901601",
+    "task": "paper-anonymizer",
+    "config": "c1_off_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8673
+  },
+  {
+    "folder": "paper-anonymizer-c2_minimal_default_verify-a87d1ffd",
+    "task": "paper-anonymizer",
+    "config": "c2_minimal_default_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8653
+  },
+  {
+    "folder": "paper-anonymizer-c2_minimal_default_verify-ed9b09d1",
+    "task": "paper-anonymizer",
+    "config": "c2_minimal_default_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8665
+  },
+  {
+    "folder": "paper-anonymizer-c2_minimal_default_verify-ffffac3f",
+    "task": "paper-anonymizer",
+    "config": "c2_minimal_default_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8677
+  },
+  {
+    "folder": "paper-anonymizer-c3_minimal_full_verify-25458753",
+    "task": "paper-anonymizer",
+    "config": "c3_minimal_full_verify",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8675
+  },
+  {
+    "folder": "paper-anonymizer-default-fdc002b6",
+    "task": "paper-anonymizer",
+    "config": "default",
+    "old_runner_score": 1,
+    "official_verifier_score": 0,
+    "log_size_bytes": 8754
+  }
+]
